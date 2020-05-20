@@ -1,6 +1,5 @@
 package de.neuefische.javaw2d3.model;
 
-import javax.swing.*;
 import java.util.Objects;
 
 public class Cat {
@@ -8,6 +7,7 @@ public class Cat {
     private int age;
     private String race;
     private boolean tame;
+
 
     //    constructor
     public Cat(int age, String race, boolean tame) {
